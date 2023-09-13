@@ -1,0 +1,17 @@
+.footer-container {
+  text-align: center;
+  align-self: stretch;
+  background-color: #cbd5e1;
+  margin-bottom: 64px;
+}
+
+.footer-text {
+  color: #475569;
+  font: 600 32px Roboto;
+}
+
+@media screen and (min-width: 768px) {
+  .footer-text {
+    font-size: 48px;
+  }
+}
